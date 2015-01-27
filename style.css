@@ -44,3 +44,8 @@ section{
  height: 500px;
  background-size: cover;
 }
+
+button{
+ color: red;
+ text-align: center;
+}

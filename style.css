@@ -1,6 +1,6 @@
 body {
 color: #81C3FF;
-font-family: san-serif;
+font-family: sans-serif;
 }
  
 nav a{
@@ -14,7 +14,7 @@ nav a{
   transition: 1s all;
 } 
 
-nav a:hover {
+nav a:hover{
   background-color: #9EC6ED;
 }
 

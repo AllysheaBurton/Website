@@ -9,10 +9,13 @@ nav a{
   color: #7DD7E0;
   background-color: #3581E0;
   border-radius: 4px;
+  margin: 5px;
+  padding: 5px
+  display: inline-block;
   transition: 1s all;
 } 
 
-nav a hover{
+nav a hover {
   background-color: #9EC6ED;
 }
  

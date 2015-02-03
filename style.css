@@ -55,9 +55,10 @@ section{
 p{ 
 background-color: #81D567;
 font-family: Impact, haettenschweiler, "Arial Narrow Bold", sans-serif;
-margin: 0;
-padding: 20px;
+margin: 6px;
+padding: 22px;
 width: 200px;
+display: inline-block;
 }
 
 section{

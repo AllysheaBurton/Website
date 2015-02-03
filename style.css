@@ -51,6 +51,11 @@ section{
  height: 250px;
 }
 
+p{ 
+background-color: #81D567;
+font-family: Impact, haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
 section{
  color: black;
  text-align: center;

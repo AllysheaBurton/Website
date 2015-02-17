@@ -74,3 +74,8 @@ section{
 .menu-selected{
  background-color: #6878EE;
 }
+ 
+table{ 
+ width: 739px;
+ margin: 0 auto;
+}

@@ -70,3 +70,7 @@ section{
  color: black;
  text-align: center;
 }
+
+.menu-selected{
+ background_color: #6878EE;
+}

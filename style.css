@@ -4,6 +4,10 @@ font-family: sans-serif;
 margin: 0;
  text-align: center;
 }
+
+html {
+ background-color: #263238;
+}
  
 nav a{
   text-decoration: none;
